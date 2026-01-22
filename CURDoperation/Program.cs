@@ -9,8 +9,13 @@ namespace CURDoperation
     internal class Program
     {
         void show()
-        { Console.WriteLine("hello")
-            }
+        { 
+            Console.WriteLine("hello")
+        }
+        void Anna(){
+            Console.WriteLine("Hii Anna✌️✌️");
+        }
+        
         static void Main(string[] args)
         {
             Program p=new Program();
