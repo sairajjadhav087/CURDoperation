@@ -13,7 +13,7 @@ namespace CURDoperation
             Console.WriteLine("hello")
         }
         void Anna(){
-            Console.WriteLine("Hii Anna✌️✌️");
+            Console.WriteLine("Hii Anna✌️✌️ SUTTEWALA 😁");
         }
         
         static void Main(string[] args)
